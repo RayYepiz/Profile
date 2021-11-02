@@ -1,0 +1,63 @@
+/* updated background color by adjusting the background color, margin, and padding on the body */
+body{
+  Margin:0px;
+  padding:0px;
+  background-color:#424242;
+}
+
+/* I wanted the text to be more centered, so I adjusted the margin to my desired size */
+main{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+/* I added a lighter grey background to my header and adjusted margin and padding */
+header{
+  background-color:#9e9e9e;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+
+/* I wanted all my paragraphs in my main to align to the left  */
+main>p{
+  text-align: left;
+}
+
+/* I wanted my header1 and header2 to have cursive font, centered, and different color */
+h1,h2{
+font-family:cursive;
+color:#424242;
+text-align: center;
+}
+
+/* I wanted to align my unordered list to the left */
+ul{
+  text-align: left;
+}
+
+/* I wanted my header 1 font to be size 48px */
+h1{
+  font-size:48px;
+}
+
+/* I wanted my header 2 font to be 32 px */
+h2{
+  font-size:32px;
+}
+
+/* I wantedt to changed the background to my footer */
+footer{
+  background: #9e9e9e;
+  margin-bottom: 0px;
+  padding-bottom:50px;
+
+}
+
+/* I created a class that centers my text */
+.center{
+  text-align: center;
+}
+
+/* I created a class that rounds my image to a certain px */
+.circle-image{
+  border-radius: 1000px;
+}
