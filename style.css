@@ -2,7 +2,7 @@
 body{
   Margin:0px;
   padding:0px;
-  background-color:#f3f0f07c;
+  background-color:#ffffff;
 }
 
 /* I wanted the text to be more centered, so I adjusted the margin to my desired size */
@@ -12,7 +12,7 @@ main{
 }
 /* I added a lighter grey background to my header and adjusted margin and padding */
 header{
-  background-color:#ffffff;
+  background-color:#ffffff50;
   margin-top: 0px;
   padding-top: 10px;
 }
@@ -50,7 +50,7 @@ h2{
 
 /* I wantedt to changed the background to my footer */
 footer{
-  background: #ffffff;
+  background: #ffffff50;
   margin-bottom: 0px;
   padding-bottom:50px;
 
@@ -63,7 +63,7 @@ footer{
 
 /* I created a class that rounds my image to a certain px and set the height rule and width of my photograph*/
 .circle-image{
-  border-radius: 1000px;
+  border-radius: 100px;
   width:"250px"; 
   height:"350px"
 }
