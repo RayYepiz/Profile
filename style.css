@@ -25,7 +25,7 @@ main>p{
 /* I wanted my header1 and header2 to have cursive font, centered, and different color */
 h1,h2{
 font-family:cursive;
-color:#f3f0f088;
+color:#000000;
 text-align: center;
 }
 
