@@ -25,6 +25,10 @@ em{
   font-size: 32px;
 }
 
+a:hover{
+  color:red;
+}
+
 body{
   color:#000000
 }
