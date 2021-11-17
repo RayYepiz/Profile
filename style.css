@@ -62,23 +62,18 @@ h2{
   color: #ffffff;
 }
 
-h3{
-  color:#ffffff;
+h3, h4{
+  color:#000000;
   font-size: 36px;
-}
-
-h4{
-  color:#5a3a25;
-  font-size:32px;
 }
 
 /* I wantedt to changed the background to my footer */
 footer{
-  background: #5a3a25;
+  background: #ffffff;
   margin-bottom: 0px;
   padding-bottom:50px;
   height: auto;
-  color:#ffffff;
+  color:#000000;
 
 }
 
@@ -100,5 +95,5 @@ footer{
 
 footer p{
   font-size: 32px;
-  color: #ffffff
+  color: #000000
 }
