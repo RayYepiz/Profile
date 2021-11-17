@@ -12,7 +12,7 @@ main{
 }
 /* I added a lighter grey background to my header and adjusted margin and padding */
 header{
-  background-color: #e3ae57;
+  background-color: #5a3a25;
   margin-top: 0px;
   padding-top: 10px;
 }
@@ -21,7 +21,8 @@ hr{
   line-height: "20px";
 }
 em{
-  color: #ffffff
+  color: #000000;
+  font-size: 32px;
 }
 
 body{
@@ -41,37 +42,43 @@ text-align: center;
 /* I wanted to align my unordered list to the left */
 ul{
   text-align: left;
-  color:#ff9d00
+  color:#002fff
 }
 
 ol{
   text-align: left;
-  color:#ff9d00;
+  color:#002fff;
 }
 
 /* I wanted my header 1 font to be size 48px */
 h1{
   font-size:48px;
-  color:#dc3d24;
+  color:#ffffff;
 }
 
 /* I wanted my header 2 font to be 32 px */
 h2{
   font-size:32px;
-  color: #610909;
+  color: #ffffff;
 }
 
-h3,h4{
-  color:#f0690f;
+h3{
+  color:#ffffff;
+  font-size: 36px;
+}
+
+h4{
+  color:#5a3a25;
+  font-size:32px;
 }
 
 /* I wantedt to changed the background to my footer */
 footer{
-  background: #e3ae57;
+  background: #5a3a25;
   margin-bottom: 0px;
   padding-bottom:50px;
   height: auto;
-  color:#000000;
+  color:#ffffff;
 
 }
 
@@ -89,4 +96,9 @@ footer{
   text-align: center;
   height: 150px;
   width: 100%;
+}
+
+footer p{
+  font-size: 32px;
+  color: #ffffff
 }
